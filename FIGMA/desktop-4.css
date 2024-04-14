@@ -1,0 +1,152 @@
+.home12 {
+  text-decoration: underline;
+}
+.home11 {
+  font-weight: 200;
+}
+.home10 {
+  color: inherit;
+}
+.levents-05-jersey1 {
+  font-family: var(--font-inter);
+}
+.home-outfit-levents-05-je-container {
+  position: absolute;
+  top: 294px;
+  left: 116px;
+  font-size: var(--font-size-17xl);
+}
+.model {
+  margin: 0;
+}
+.model-height-1m78-weight-container {
+  position: absolute;
+  top: 445px;
+  left: 436px;
+  font-size: var(--font-size-21xl);
+  font-weight: 200;
+}
+.image-23-icon4,
+.image-24-icon4,
+.image-25-icon4,
+.image-26-icon4 {
+  position: absolute;
+  top: 855px;
+  left: 17px;
+  width: 440px;
+  height: 550px;
+  object-fit: cover;
+}
+.image-24-icon4,
+.image-25-icon4,
+.image-26-icon4 {
+  left: 457px;
+}
+.image-25-icon4,
+.image-26-icon4 {
+  left: 887px;
+}
+.image-26-icon4 {
+  top: 1471px;
+  left: 333px;
+  width: 236px;
+  height: 296px;
+}
+.levents-05-jersey-container {
+  position: absolute;
+  top: 1527px;
+  left: 645px;
+  text-align: left;
+}
+.xem-chi-tit {
+  position: absolute;
+  top: 1644px;
+  left: 645px;
+  color: var(--color-tomato);
+  cursor: pointer;
+}
+.footer-inner,
+.header-icon2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1343px;
+  height: 264px;
+}
+.footer-inner {
+  background-color: var(--color-white);
+  width: 1325px;
+  height: 353px;
+}
+.lin-h-hotline-container12 {
+  position: absolute;
+  top: 43px;
+  left: 543.1px;
+  display: inline-block;
+  width: 239.2px;
+}
+.e-nguyn-tri-phng-bn-thn7 {
+  margin-bottom: 0;
+}
+.e-nguyn-tri-phng-bn-thn6 {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-8xl);
+}
+.ca-hng-139e-container12,
+.h-tr-ti-container2 {
+  position: absolute;
+  top: 38px;
+  left: 803.5px;
+  display: inline-block;
+  width: 482.2px;
+}
+.h-tr-ti-container2 {
+  top: 194px;
+  left: 809px;
+  width: 403.1px;
+}
+.image-3-icon2 {
+  position: absolute;
+  top: 62px;
+  left: 44.4px;
+  width: 253px;
+  height: 57px;
+  object-fit: cover;
+}
+.levents-share13 {
+  position: absolute;
+  top: 146px;
+  left: 44.4px;
+  text-align: center;
+  display: inline-block;
+  width: 245.7px;
+}
+.footer2,
+.thng-tin-sn-container2 {
+  position: absolute;
+  font-size: var(--font-size-xl);
+  text-align: left;
+}
+.footer2 {
+  top: 2070px;
+  left: 29px;
+  width: 1325px;
+  height: 353px;
+}
+.thng-tin-sn-container2 {
+  top: 1874px;
+  left: 86px;
+}
+.desktop-4 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 2433px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

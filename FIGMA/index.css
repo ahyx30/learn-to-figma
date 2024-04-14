@@ -1,0 +1,127 @@
+.about-us {
+  margin: 0;
+}
+.about-us-who-container {
+  position: absolute;
+  top: 472px;
+  left: 119px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  width: 1128px;
+  height: 318px;
+}
+.image-1-icon {
+  position: absolute;
+  top: 676px;
+  left: 205px;
+  width: 955px;
+  height: 536px;
+  object-fit: cover;
+}
+.what-we-do-young-container {
+  position: absolute;
+  top: 1267px;
+  left: 212px;
+  display: inline-block;
+  width: 948px;
+  height: 353px;
+}
+.image-2-icon {
+  position: absolute;
+  top: 1489px;
+  left: 214px;
+  width: 956px;
+  height: 536px;
+  object-fit: cover;
+}
+.home {
+  color: inherit;
+}
+.home-about-us {
+  position: absolute;
+  top: 344px;
+  left: 120px;
+  display: inline-block;
+  width: 147px;
+}
+.footer-child,
+.header-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1343px;
+  height: 264px;
+}
+.footer-child {
+  background-color: var(--color-white);
+  width: 1325px;
+  height: 353px;
+}
+.span {
+  text-decoration: underline;
+}
+.lin-h-hotline-container {
+  position: absolute;
+  top: 43px;
+  left: 543.1px;
+  display: inline-block;
+  width: 239.2px;
+}
+.e-nguyn-tri-phng-bn-thn {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-8xl);
+}
+.ca-hng-139e-container {
+  position: absolute;
+  top: 38px;
+  left: 803.5px;
+  display: inline-block;
+  width: 482.2px;
+}
+.ti-khon {
+  margin-bottom: 0;
+}
+.h-tr-ti-container {
+  position: absolute;
+  top: 194px;
+  left: 809px;
+  display: inline-block;
+  width: 403.1px;
+}
+.image-3-icon {
+  position: absolute;
+  top: 62px;
+  left: 44.4px;
+  width: 253px;
+  height: 57px;
+  object-fit: cover;
+}
+.levents-share {
+  position: absolute;
+  top: 146px;
+  left: 44.4px;
+  text-align: center;
+  display: inline-block;
+  width: 245.7px;
+}
+.footer {
+  position: absolute;
+  top: 2025px;
+  left: -5px;
+  width: 1325px;
+  height: 353px;
+  text-align: left;
+}
+.desktop-3 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 2433px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

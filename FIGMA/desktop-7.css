@@ -1,0 +1,227 @@
+.image-27-icon4 {
+  position: absolute;
+  top: 483px;
+  left: 56px;
+  width: 547px;
+  height: 684px;
+  object-fit: cover;
+}
+.desktop-7-child {
+  position: absolute;
+  top: 1718.5px;
+  left: 2.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 2001px;
+  height: 1px;
+}
+.header-icon5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1339px;
+  height: 264px;
+}
+.home21 {
+  text-decoration: underline;
+}
+.home20 {
+  font-weight: 200;
+}
+.home19 {
+  color: inherit;
+}
+.home-all-products-levents2 {
+  position: absolute;
+  top: 310px;
+  left: 108px;
+  font-size: var(--font-size-17xl);
+}
+.desktop-7-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro-200);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1339px;
+  height: 1018px;
+}
+.desktop-7-inner {
+  position: absolute;
+  top: 0;
+  left: 584px;
+  background-color: var(--color-white);
+  width: 759px;
+  height: 1027px;
+}
+.gi-hng-ca2,
+.ti-khon14 {
+  position: absolute;
+  top: 76px;
+  left: 658px;
+  font-weight: 200;
+}
+.ti-khon14 {
+  left: 1118px;
+  font-weight: 500;
+  cursor: pointer;
+}
+.desktop-7-child1 {
+  position: absolute;
+  top: 114.5px;
+  left: 657.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 619px;
+  height: 1px;
+}
+.ng-k4,
+.ng-nhp11 {
+  position: absolute;
+  top: 159px;
+  left: 798px;
+}
+.ng-nhp11 {
+  left: 980px;
+  font-weight: 200;
+}
+.desktop-7-child2,
+.group-child35 {
+  position: absolute;
+  box-sizing: border-box;
+}
+.desktop-7-child2 {
+  top: 162.5px;
+  left: 971.5px;
+  border-right: 1px solid var(--color-black);
+  width: 1px;
+  height: 33px;
+}
+.group-child35 {
+  top: 29px;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  width: 636px;
+  height: 56px;
+}
+.rectangle-parent9 {
+  position: absolute;
+  top: 225px;
+  left: 677px;
+  width: 636px;
+  height: 85px;
+  font-size: var(--font-size-5xl);
+}
+.s-in-thoi1 {
+  margin: 0;
+}
+.s-in-thoi-container {
+  position: absolute;
+  top: 0;
+  left: 14px;
+}
+.rectangle-parent10 {
+  position: absolute;
+  top: 310px;
+  left: 677px;
+  width: 636px;
+  height: 85px;
+  font-size: var(--font-size-5xl);
+}
+.group-child37 {
+  position: absolute;
+  top: 29px;
+  left: 12px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 636px;
+  height: 56px;
+}
+.email3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 109px;
+}
+.rectangle-parent11 {
+  position: absolute;
+  top: 395px;
+  left: 665px;
+  width: 648px;
+  height: 85px;
+  font-size: var(--font-size-5xl);
+}
+.ngy-sinh {
+  position: absolute;
+  top: 0;
+  left: 12px;
+}
+.rectangle-parent12 {
+  position: absolute;
+  top: 480px;
+  left: 677px;
+  width: 636px;
+  height: 85px;
+  font-size: var(--font-size-5xl);
+}
+.group-child39 {
+  position: absolute;
+  top: 23px;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 636px;
+  height: 56px;
+}
+.rectangle-parent13,
+.rectangle-parent14 {
+  position: absolute;
+  top: 571px;
+  left: 677px;
+  width: 636px;
+  height: 79px;
+  font-size: var(--font-size-5xl);
+}
+.rectangle-parent14 {
+  top: 650px;
+  height: 85px;
+}
+.desktop-7-child3 {
+  position: absolute;
+  top: 801px;
+  left: 785px;
+  background-color: var(--color-black);
+  width: 390px;
+  height: 75px;
+}
+.ng-k5,
+.thot6 {
+  position: absolute;
+  top: 819px;
+  left: 916px;
+  color: var(--color-white);
+}
+.thot6 {
+  top: 827px;
+  left: 627px;
+  color: var(--color-red);
+  cursor: pointer;
+}
+.desktop-7 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1018px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
